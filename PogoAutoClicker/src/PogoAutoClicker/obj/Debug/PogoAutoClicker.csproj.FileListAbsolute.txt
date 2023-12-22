@@ -1,0 +1,9 @@
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\bin\Debug\PogoAutoClicker.exe.config
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\bin\Debug\PogoAutoClicker.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\bin\Debug\PogoAutoClicker.pdb
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.csproj.AssemblyReference.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.WinForm.resources
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.csproj.GenerateResource.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Automation\PogoAutoClicker\PogoAutoClicker\PogoAutoClicker\obj\Debug\PogoAutoClicker.pdb
